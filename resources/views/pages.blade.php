@@ -4,10 +4,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Kalahari desert</title>
+    <title>Pages</title>
 </head>
 <body>
-    <h1>Kalahari</h1>
+    <h4>See inherited pages route</h4>
     <a href="/">Home page</a>
     <br>
     <a href="/about">View the god damn about page</a>
