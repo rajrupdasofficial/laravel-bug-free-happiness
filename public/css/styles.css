@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+    overflow: hidden;
+}
+
+body{
+    background-color: color-mix(in oklch shorter hue, azure, grey  30%);
+}
+.wrapper{
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    justify-items: center;
+}
+nav{
+    float: right;
+    color: antiquewhite;
+    text-decoration: none;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 16%;
+    margin-right: 40px;
+}
+
+nav a{
+    margin-top: 20px;
+    text-decoration: none;
+    text-align: center;
+    color:  orangered;
+}
+
+footer{
+    margin-top: 100px;
+    font: caption;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    color:rgb(87, 88, 14)
+}
+
+li{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    float: left;
+    margin-left: 4px;
+    border: 2px solid;
+    border-color: orange;
+    margin-top: 6px;
+}
+li a{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    text-decoration: none;
+    color: teal;
+}
+
+article{
+    display: flex;
+    flex-direction: column;
+    color: orangered;
+    flex-wrap: wrap;
+    cursor: cell;
+    text-decoration: dotted;
+    margin-right: 40px;
+    margin-bottom: 55px;
+}
+ul{
+    display: flex;
+    flex-direction: column;
+    float: left;
+}
